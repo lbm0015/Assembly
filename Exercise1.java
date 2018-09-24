@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
  * Programming Assignment2 COMP 3350
- * Author: Emma Wells and Laney Martin
+ * Author: Laney Martin
  * Date: September 20,2018
  */
  
